@@ -38,7 +38,9 @@ myNumber = "123";
 ```
 
 Afficher son type de variable dans la console
+
 Modifier son type String en type Number
+
 Afficher son type de variable dans la console
 
 ### Exercice 6 : Majuscules et miniscules
