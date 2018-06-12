@@ -45,7 +45,7 @@ Afficher son type de variable dans la console
 
 ### Exercice 6 : Majuscules et miniscules
 
-Ecrire un programme vous demandant d'entrer votre nom (à l'aide de deux "prompt()"), puis permettant de l'afficher dans la console en majuscule.
+Ecrire un programme vous demandant d'entrer votre nom (à l'aide d'un "prompt()"), puis permettant de l'afficher dans la console en majuscule.
 Refaire la même chose en miniscule.
 
 ### Exercice 7 : True ou False ?
